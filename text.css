@@ -1,0 +1,10 @@
+.name{
+ border: 1px solid  lightgrey;
+  height:120px;
+  width:200px;
+  text-align:center;
+  margin:5px;
+  padding-top:20px;
+  float:left;
+  list-style-type:none;
+}
